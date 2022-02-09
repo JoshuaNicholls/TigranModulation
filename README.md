@@ -37,5 +37,5 @@ python3 main.py
 First ensure you have installed all the packages
 
 ```sh
-python3 main.py
+nosetests
 ```
